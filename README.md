@@ -8,7 +8,7 @@ This case study analyzes product and customer review data from Amazon to extract
 
 ## 📁 Project Overview
 - **Company**: RetailTech Insights
-- **Data**: 1,351 Amazon product records with 16 columns
+- **Data**: 1465 Amazon product records with 16 columns
 - **Tools Used**: Excel (Calculated Columns, Pivot Tables & Dashboard)
 
 ## 🔍 Key Analysis Questions
@@ -35,15 +35,9 @@ This case study analyzes product and customer review data from Amazon to extract
 
 
 
-
 ## 📊 Final Output
 Excel dashboard summarizing all key insights.
+![image](https://github.com/user-attachments/assets/75204a55-a55e-4cb8-bc9a-90d03c19a1ac)
+[Amazon case study_Report.xlsx](https://github.com/user-attachments/files/21065986/Amazon.case.study_Report.xlsx)
 
-## 📁 Folder Structure
-- `data/` - Raw data file
-- `analysis/` - Pivot analysis files
-- `dashboard/` - Final Excel dashboard
-- `visuals/` - Screenshots or charts
-
----
 
