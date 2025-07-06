@@ -5,7 +5,8 @@ This project was completed as part of a **Data Analysis training program by Digi
 ⚠️ **Note**: The dataset used is for academic purposes only and does not represent actual Amazon data.
 
 ## 📦 Dataset Summary
-- **Total Records**: 1,465 products  
+- **Total Records**: 1,465 rows as Products
+- **Duplicates**: 114 rows discovered   
 - **Fields**: 16 columns including product name, category, price, discount, rating, and review count  
 - **Source**: Supplied by DSA for educational case study
 ---  
@@ -37,21 +38,19 @@ This project was completed as part of a **Data Analysis training program by Digi
 
 ---
 ## Oginigal file 
-Before Cleaning: ![image](https://github.com/user-attachments/assets/cdb96ac5-84e9-4a56-a13b-c93fd6cd4824)
+**Before Cleaning**: ![image](https://github.com/user-attachments/assets/cdb96ac5-84e9-4a56-a13b-c93fd6cd4824)
+**After Cleaning**: ![image](https://github.com/user-attachments/assets/9d58fddf-3eff-45f8-b903-b88179b7da1d)
 
-[Amazon case study.xlsx](https://github.com/user-attachments/files/21068419/Amazon.case.study.xlsx)
 
 ## 📈 Dashboard Overview
 An Excel dashboard was built to visually summarize the results using:
 - Pivot Tables and Pivot Charts
 - Price and Rating Binning
 - Data-Driven KPIs (like top-rated products, review count filters, etc.)
-![image](https://github.com/user-attachments/assets/92d45ded-4363-4876-8f4e-581fdb26c00e)
-
+![image](https://github.com/user-attachments/assets/d430cf40-0e7d-4802-bc1a-4b67c5dbbb59)
 ---
 
 ## ✅ Conclusions
-
 ### 1. 📉 Discount Insights
 - Average discount percentages vary significantly by category.
 - A few categories (e.g., electronics or accessories) offer **above-average discounts**.
@@ -69,6 +68,10 @@ An Excel dashboard was built to visually summarize the results using:
 
 ### 5. 📦 Price Band Distribution
 - Majority of products fall within the **₹200–₹500** range.
+
+### 6. 📦 Analyzing the Relationship Between Discount Levels and Product Ratings
+- Product ratings tend to increase with higher discounts.
+[Amazon case study_Report_DSA.xlsx](https://github.com/user-attachments/files/21092541/Amazon.case.study_Report_DSA.xlsx)
 
 ---
 
