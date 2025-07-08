@@ -37,7 +37,7 @@ This project was completed as part of a **Data Analysis training program by Digi
 14. What are the top 5 products by combined rating and number of reviews?
 
 ---
-## Oginigal file 
+## Original file 
 **Before Cleaning**: ![image](https://github.com/user-attachments/assets/cdb96ac5-84e9-4a56-a13b-c93fd6cd4824)
 **After Cleaning**: ![image](https://github.com/user-attachments/assets/9d58fddf-3eff-45f8-b903-b88179b7da1d)
 
